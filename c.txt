@@ -1,3 +1,4 @@
 first line in c.txt
 this is the edited file
 new line
+fourth line in c.txt
