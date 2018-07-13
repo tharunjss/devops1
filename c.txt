@@ -1,4 +1,4 @@
 first line in c.txt
 this is the edited file
-new line
+third  line added 
 fourth line in c.txt
